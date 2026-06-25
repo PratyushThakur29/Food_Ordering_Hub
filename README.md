@@ -1,4 +1,4 @@
-🍔 FoodHub — Mini Food Ordering Hub
+##🍔 FoodHub — Mini Food Ordering Hub
 
 A modern, responsive food ordering web application built with React + Vite for the WnCC Full Stack Web Development LS — Week 2 Assignment.
 
